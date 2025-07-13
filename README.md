@@ -18,7 +18,7 @@ My name is Steven and currently i'm a Senior at Colorado School of Mines ⛏️ 
 
 Outside of programming and problem solving, I love to read, explore National Parks, and play soccer. Currently, I am reading Just Kids by Patti Smith 📖
 
-⚡ Fun fact:
+⚡ Fun facts:
   - If I was a block in Minecraft, I would be a the Enchanting Table
   - I am left handed
   - My favorite book is Perks of Being a Wallflower 🌷
