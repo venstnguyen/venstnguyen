@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm glad you made it!🤖
 
 <!--
 **venstnguyen/venstnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Testing
+My name is Steven and currently i'm a Senior at Colorado School of Mines ⛏️ with a discipline in Computer Science! 
+
+Outside of programming and problem solving, I love to read, explore National Parks, and play soccer. Currently, I am reading Just Kids by Patti Smith 📖
+
+⚡ Fun fact:
+  - If I was a block in Minecraft, I would be a the Enchanting Table
+  - I am left handed
+  - My favorite book is Perks of Being a Wallflower
