@@ -20,5 +20,5 @@ Outside of programming and problem solving, I love to read, explore National Par
 
 ⚡ Fun facts:
   - If I was a block in Minecraft, I would be the Enchantment Table 
-  - I am left handed
+  - I'm left handed
   - My favorite book is Perks of Being a Wallflower 🌷
