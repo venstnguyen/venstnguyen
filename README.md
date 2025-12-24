@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Steven and currently i'm a Senior at Colorado School of Mines ⛏️ with a discipline in Computer Science! 
 
-Outside of programming and problem solving, I love to read, explore National Parks, and play soccer.
+Outside of programming and problem solving, I love to read, explore National Parks, play soccer, and baseball!
 
 ⚡ Fun facts:
   - If I was a block in Minecraft, I would be the Enchantment Table 
